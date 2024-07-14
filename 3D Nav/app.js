@@ -31,4 +31,4 @@ function nextPage(index) {
   setTimeout(() => {
     overlay.style.animation = null;
   }, 1000);
-}
+}.
